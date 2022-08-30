@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppRevisao</string>
+    <string name="txtNome">Nome:</string>
+    <string name="txtEndereco">Endereço:</string>
+    <string name="txtBairro">Bairro:</string>
+    <string name="txtCep">Cep:</string>
+    <string name="bntCadastrar">Cadastrar</string>
+    <string name="txtTitle">Confimação de Dados</string>
+    <string name="bntConfirmar">Confirmar</string>
+</resources>
